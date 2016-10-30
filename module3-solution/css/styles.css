@@ -1,0 +1,41 @@
+body {
+	font-family: 'Baloo', cursive;
+	background-color: #e6e6e6;
+}
+#nav-list {
+	margin-top: 10px;
+}
+#nav-list a {
+	text-align: center;
+}
+div.container > div.navbar-header {
+    margin-left: 0;
+    margin-right: 0;
+}
+.navbar-header button.navbar-toggle {
+	clear: both;
+	margin-top: -50px;
+}
+.navbar-inverse .navbar-brand {
+	float: none;
+	color: #6699cc;
+}
+
+.navbar-inverse a.navbar-brand:hover, .navbar-inverse a.navbar-brand:focus {
+	color: #e6e6e6;
+}
+
+.container {
+	width: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+#our-menu {
+	color: #6699cc;
+}
+section {
+	min-height: 1000px;
+}
+article {
+	background-color: #6699cc;
+}
